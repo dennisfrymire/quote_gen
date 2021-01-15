@@ -1,0 +1,19 @@
+{
+  "name": "quote_gen",
+  "version": "1.0.0",
+  "description": "Random quote generator using API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisfrymire/quote_gen.git"
+  },
+  "author": "Dennis Frymire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisfrymire/quote_gen/issues"
+  },
+  "homepage": "https://github.com/dennisfrymire/quote_gen#readme"
+}
